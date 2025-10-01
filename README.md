@@ -24,5 +24,6 @@ Tarayıcıda çalışan basit bir **Flappy Bird klonu**.
 
 1. Depoyu indir:  
    ```bash
-   git clone https://github.com/<kullanici-adin>/<repo-adin>.git
-   cd <repo-adin>
+   git clone https://github.com/mertadores/FlappyBird.git
+   cd FlappyBird
+

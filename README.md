@@ -27,3 +27,13 @@ Tarayıcıda çalışan basit bir **Flappy Bird klonu**.
    git clone https://github.com/mertadores/FlappyBird.git
    cd FlappyBird
 
+2. `index.html` dosyasını tarayıcıda aç.  
+   Alternatif: Yerel sunucu çalıştırmak için:  
+   - Python:  
+     ```bash
+     python -m http.server 8080
+     ```  
+   - Node:  
+     ```bash
+     npx http-server -p 8080
+     ```

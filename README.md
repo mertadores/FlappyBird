@@ -37,3 +37,8 @@ Tarayıcıda çalışan basit bir **Flappy Bird klonu**.
      ```bash
      npx http-server -p 8080
      ```
+## 📷 Ekran Görüntüleri
+
+Ana Menü | Oyun İçi
+:-------------------------:|:-------------------------:
+![Menu](images/menu.png) | ![Gameplay](images/gameplay.png)
